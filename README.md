@@ -1,7 +1,3 @@
-Here’s a more visually appealing, engaging, and educational version of your README:
-
----
-
 # 🎭 Emotion Detection System using Keras  
 
 Unlock the power of deep learning to recognize emotions! This **Emotion Detection System** leverages **Keras** and **Convolutional Neural Networks (CNNs)** to classify emotions from facial expressions in images. Whether you're an AI enthusiast or a developer looking for a practical project, this system is a great way to dive into the world of **Computer Vision** and **Emotion AI**.  
